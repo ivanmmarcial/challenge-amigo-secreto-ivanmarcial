@@ -10,7 +10,7 @@ Este es un proyecto en **JavaScript**, **HTML** y **CSS** que permite:
 
 
 Para ingresar al juego podés entrar al siguiente link:  
-[🎮 Ir al Sorteo de Amigos]()
+[🎮 Ir al Sorteo de Amigos](https://ivanmmarcial.github.io/challenge-amigo-secreto-ivanmarcial/)
 
 ## 👤 Autor
 
