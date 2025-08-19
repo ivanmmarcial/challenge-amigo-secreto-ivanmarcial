@@ -14,4 +14,4 @@ Para ingresar al juego podés entrar al siguiente link:
 
 ## 👤 Autor
 
-- [Iván Marcial](https://github.com/TU-USUARIO)
+- [Iván Marcial](https://github.com/ivanmmarcial)
